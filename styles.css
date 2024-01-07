@@ -1,0 +1,16 @@
+.center {
+    border: 5px solid;
+    margin: auto;
+    width: 50%;
+    height: 600px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.header {
+    color: aliceblue;
+    text-align: center
+}
+
+  
