@@ -18,5 +18,5 @@ Navigate to the project folder and open the index.html file in a browser of your
 
 3. If you found all matches, refresh the page to start again.
 
-# Extensions-Planned:
+## Extensions-Planned:
 1. Create a fireworks animation using HTML canvas when the user finds all the matches.
